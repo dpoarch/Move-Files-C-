@@ -1,0 +1,9 @@
+C:\Users\Greecos_09\Desktop\SpencerGifts.Movefiles\SpencerGifts.MoveFiles\SpencerGifts.MoveFiles\bin\Debug\SpencerGifts.MoveFiles.exe.config
+C:\Users\Greecos_09\Desktop\SpencerGifts.Movefiles\SpencerGifts.MoveFiles\SpencerGifts.MoveFiles\obj\Debug\SpencerGifts.MoveFiles.csprojResolveAssemblyReference.cache
+C:\Users\Greecos_09\Desktop\SpencerGifts.Movefiles\SpencerGifts.MoveFiles\SpencerGifts.MoveFiles\bin\Debug\NLog.config
+C:\Users\Greecos_09\Desktop\SpencerGifts.Movefiles\SpencerGifts.MoveFiles\SpencerGifts.MoveFiles\bin\Debug\SpencerGifts.MoveFiles.exe
+C:\Users\Greecos_09\Desktop\SpencerGifts.Movefiles\SpencerGifts.MoveFiles\SpencerGifts.MoveFiles\bin\Debug\SpencerGifts.MoveFiles.pdb
+C:\Users\Greecos_09\Desktop\SpencerGifts.Movefiles\SpencerGifts.MoveFiles\SpencerGifts.MoveFiles\bin\Debug\NLog.dll
+C:\Users\Greecos_09\Desktop\SpencerGifts.Movefiles\SpencerGifts.MoveFiles\SpencerGifts.MoveFiles\bin\Debug\NLog.xml
+C:\Users\Greecos_09\Desktop\SpencerGifts.Movefiles\SpencerGifts.MoveFiles\SpencerGifts.MoveFiles\obj\Debug\SpencerGifts.MoveFiles.exe
+C:\Users\Greecos_09\Desktop\SpencerGifts.Movefiles\SpencerGifts.MoveFiles\SpencerGifts.MoveFiles\obj\Debug\SpencerGifts.MoveFiles.pdb

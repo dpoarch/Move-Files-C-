@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>SRC:F:\pos\polling\Data\DebitBinRange\Zip TARGET:F:\POS\PollingArchive\Data\DebitBinRange\Archive MASK:U06010205.zip TARGETMASK: TIMESTAMP:true RECURSIVE:true DELSRC:true</StartArguments>
+  </PropertyGroup>
+</Project>
